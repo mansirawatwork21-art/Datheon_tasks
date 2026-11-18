@@ -1,0 +1,9 @@
+The main findings:
+
+Growth: Sales are about $2.30M and profit about $286K, with a margin of roughly 12.5%. Sales grew 29% in 2017 and 20% in 2018 after a small dip in 2016.
+Seasonality: September, November and December are the peaks, and November is about 6× February.
+Furniture: It makes about $742K in sales but only a 2.5% margin, against about 17% for Technology and Office Supplies.
+Discounts: Anything above 20% loses money. Those lines lose about $135K in total, and discount and profit are negatively correlated (r = −0.22).
+Loss-makers: Tables, Bookcases and Supplies lose money overall. The Central region has the lowest margin, and Texas, Ohio, Pennsylvania and Illinois lose the most by state.
+Segments and customers: Corporate and Home Office earn better margins than Consumer. The top 20% of customers drive about 48% of sales.
+Data quality: The stray rows and the postal-code fix are written up as a note.
